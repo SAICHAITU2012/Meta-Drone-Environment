@@ -1,3 +1,13 @@
+---
+title: DroneZ OpenEnv
+sdk: docker
+app_port: 7860
+colorFrom: blue
+colorTo: green
+pinned: false
+license: mit
+---
+
 # DroneZ
 
 DroneZ is an OpenEnv-style RL environment for training an LLM to act as a mission-level fleet operations controller for autonomous delivery drones.
